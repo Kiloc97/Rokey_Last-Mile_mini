@@ -1,1 +1,0 @@
-/home/rokey/rokey3_C4_ws/build/custom_msgs/rosidl_generator_cpp/custom_msgs/msg/detail/detected_object__traits.hpp

@@ -1,1 +1,0 @@
-/home/rokey/rokey3_C4_ws/build/custom_msgs/rosidl_generator_py/custom_msgs/msg/_detected_object_s.c

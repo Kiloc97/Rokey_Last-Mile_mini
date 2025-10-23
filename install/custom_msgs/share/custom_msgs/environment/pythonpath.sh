@@ -1,1 +1,0 @@
-/home/rokey/rokey3_C4_ws/build/custom_msgs/ament_cmake_environment_hooks/pythonpath.sh
