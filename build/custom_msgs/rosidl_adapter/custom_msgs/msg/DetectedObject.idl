@@ -1,0 +1,51 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_msgs/msg/DetectedObject.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+#include "geometry_msgs/msg/Point.idl"
+#include "std_msgs/msg/Header.idl"
+
+module custom_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "탐지된 하나의 객체에 대한 정보")
+    struct DetectedObject {
+      @verbatim (language="comment", text=
+        "ROS Header (탐지 시점의 타임스탬프 및 프레임 ID)")
+      std_msgs::msg::Header header;
+
+      @verbatim (language="comment", text=
+        "클래스 이름 (예: car, red, green, dummy 등)")
+      string class_name;
+
+      @verbatim (language="comment", text=
+        "이미지 상의 중심 좌표 (픽셀 단위)")
+      int32 x_center;
+
+      int32 y_center;
+
+      @verbatim (language="comment", text=
+        "깊이 카메라 기반 거리 정보 (단위: meter)")
+      float distance;
+
+      @verbatim (language="comment", text=
+        "카메라 좌표계 기준 3D 좌표")
+      geometry_msgs::msg::Point point;
+
+      @verbatim (language="comment", text=
+        "변환된 map 좌표계 기준 3D 좌표 (TF 변환 성공 시)")
+      float map_x;
+
+      float map_y;
+
+      float map_z;
+
+      @verbatim (language="comment", text=
+        "변환된 좌표계의 frame_id 및 timestamp")
+      string frame_id;
+
+      builtin_interfaces::msg::Time stamp;
+    };
+  };
+};

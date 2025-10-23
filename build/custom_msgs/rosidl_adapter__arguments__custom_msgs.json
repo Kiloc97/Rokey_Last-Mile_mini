@@ -1,0 +1,7 @@
+{
+  "package_name": "custom_msgs",
+  "non_idl_tuples": [
+    "/home/rokey/rokey3_C4_ws/src/custom_msgs:msg/DetectedObject.msg",
+    "/home/rokey/rokey3_C4_ws/src/custom_msgs:msg/DetectedObjectArray.msg"
+  ]
+}

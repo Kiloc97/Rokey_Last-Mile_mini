@@ -1,0 +1,1 @@
+/home/rokey/rokey3_C4_ws/src/custom_msgs/msg/DetectedObject.msg

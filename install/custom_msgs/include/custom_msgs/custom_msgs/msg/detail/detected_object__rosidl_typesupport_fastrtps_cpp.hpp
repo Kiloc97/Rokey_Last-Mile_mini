@@ -1,0 +1,1 @@
+/home/rokey/rokey3_C4_ws/build/custom_msgs/rosidl_typesupport_fastrtps_cpp/custom_msgs/msg/detail/detected_object__rosidl_typesupport_fastrtps_cpp.hpp

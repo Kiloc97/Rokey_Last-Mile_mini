@@ -1,0 +1,1 @@
+/home/rokey/rokey3_C4_ws/build/custom_msgs/rosidl_generator_c/custom_msgs/msg/rosidl_generator_c__visibility_control.h

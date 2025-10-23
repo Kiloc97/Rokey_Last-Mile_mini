@@ -1,0 +1,58 @@
+[0.562s] Invoking command in '/home/rokey/rokey3_C4_ws/build/c4': PYTHONPATH=/home/rokey/rokey3_C4_ws/build/c4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey3_C4_ws/install/c4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rokey/rokey3_C4_ws/build/c4/build --no-deps symlink_data
+[0.721s] running develop
+[0.827s] running egg_info
+[0.827s] writing c4.egg-info/PKG-INFO
+[0.827s] writing dependency_links to c4.egg-info/dependency_links.txt
+[0.827s] writing entry points to c4.egg-info/entry_points.txt
+[0.827s] writing requirements to c4.egg-info/requires.txt
+[0.827s] writing top-level names to c4.egg-info/top_level.txt
+[0.829s] reading manifest file 'c4.egg-info/SOURCES.txt'
+[0.829s] writing manifest file 'c4.egg-info/SOURCES.txt'
+[0.830s] running build_ext
+[0.830s] Creating /home/rokey/rokey3_C4_ws/install/c4/lib/python3.10/site-packages/c4.egg-link (link to .)
+[0.831s] Installing capture_image script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.831s] Installing cont_capture_image script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.831s] Installing create_path script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.831s] Installing depth_checker script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_3d script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_3d3 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_3d_modified_1 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_3d_modified_2 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_3d_origin script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_nav_goal script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_nav_goal3 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing depth_to_nav_goal_origin script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing follow_waypoints script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing mail_delivery script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing msg_to_goal script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing nav_person script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing nav_person2 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing nav_through_poses script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing nav_to_person script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing nav_to_pose script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing nav_to_pose_modified script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing obj_detect script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing obj_detect_thread script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing obj_detect_track script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing patrol_loop script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing pub_data script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing pub_image script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing pub_yolo script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing robot_control script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing robot_control1 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.832s] Installing robot_control2 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing robot_control_4 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing robot_detect script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing robot_detect_0 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing robot_detect_1 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing robot_detect_2 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing robot_detect_3 script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing show_data script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing show_image script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing show_yolo script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing view_image_select script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] Installing yolo_depth script to /home/rokey/rokey3_C4_ws/install/c4/lib/c4
+[0.833s] 
+[0.833s] Installed /home/rokey/rokey3_C4_ws/build/c4
+[0.833s] running symlink_data
+[0.853s] Invoked command in '/home/rokey/rokey3_C4_ws/build/c4' returned '0': PYTHONPATH=/home/rokey/rokey3_C4_ws/build/c4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rokey/rokey3_C4_ws/install/c4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rokey/rokey3_C4_ws/build/c4/build --no-deps symlink_data
